@@ -11,7 +11,7 @@ Zsombor Pirok
 Lewis MackArthur Jackson
 
 # Game Details: PonyX 
-## Genera:
+## Genre:
 Top Down Iso-Metric
 Medeval Fantasy
 Procedural Dungeon Crawler
@@ -25,3 +25,7 @@ Moved with WASD keys
 Aim with mouse
 Attack with left mouse button
 Block with right mouse button
+
+First dungeon is always the tavern, and from there the player escapes on their procedural journey
+
+Start the game by drinking an ale
