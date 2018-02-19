@@ -29,3 +29,10 @@ Block with right mouse button
 First dungeon is always the tavern, and from there the player escapes on their procedural journey
 
 Start the game by drinking an ale
+
+
+## Gameplay:
+Player starts in Tavern, chooses a beer (which selects difficulty, implemented simply through increased enemy health levels)
+The player then fights the enemies in the tavern then exits
+The following 5 levels are procedurally generated (small cube rooms with randomly placed obstacles and enemies)
+On the 6th level, the player fights a boss and, either winning or loseing, reappears in the Tavern, able to quit by exiting the tavern, or start again by drinking a beer.
