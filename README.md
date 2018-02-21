@@ -36,3 +36,9 @@ Player starts in Tavern, chooses a beer (which selects difficulty, implemented s
 The player then fights the enemies in the tavern then exits
 The following 5 levels are procedurally generated (small cube rooms with randomly placed obstacles and enemies)
 On the 6th level, the player fights a boss and, either winning or loseing, reappears in the Tavern, able to quit by exiting the tavern, or start again by drinking a beer.
+
+## MAIN TASKS - TO BE ASSIGNED
+-Level generation
+-Enemy characters/AI
+-Player character/controls
+-Gameplay/UI
