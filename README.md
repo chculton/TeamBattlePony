@@ -38,7 +38,11 @@ The following 5 levels are procedurally generated (small cube rooms with randoml
 On the 6th level, the player fights a boss and, either winning or loseing, reappears in the Tavern, able to quit by exiting the tavern, or start again by drinking a beer.
 
 ## MAIN TASKS - TO BE ASSIGNED
--Level generation
--Enemy characters/AI
--Player character/controls
--Gameplay/UI
+-Level generation - Lewis
+
+-Enemy characters/AI - Hans
+
+-Player character/controls - Varun
+
+-Gameplay/UI - Zsombi
+
