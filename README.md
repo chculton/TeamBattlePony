@@ -6,8 +6,11 @@ Connor Hans culton
 
 # Members:
 Connor Hans Culton
+
 Varun Naval
+
 Zsombor Pirok
+
 Lewis MackArthur Jackson
 
 # Game Details: PonyX 
@@ -37,7 +40,7 @@ The player then fights the enemies in the tavern then exits
 The following 5 levels are procedurally generated (small cube rooms with randomly placed obstacles and enemies)
 On the 6th level, the player fights a boss and, either winning or loseing, reappears in the Tavern, able to quit by exiting the tavern, or start again by drinking a beer.
 
-## MAIN TASKS - TO BE ASSIGNED
+## MAIN ROLES - TO BE ASSIGNED
 -Level generation - Lewis
 
 -Enemy characters/AI - Hans
